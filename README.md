@@ -33,7 +33,7 @@ The goal is to learn **shared and disorder-specific representations** across the
 
 The architecture of the study is explained through the image below
 
-/Images/architecture.png
+/Images/architecture_diagram.png
 
 ### 1. Data Processing
 - sMRI preprocessing (alignment, normalization, resampling)
