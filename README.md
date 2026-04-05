@@ -31,6 +31,10 @@ The goal is to learn **shared and disorder-specific representations** across the
 
 ## Methodology
 
+The architecture of the study is explained through the image below
+
+/Images/architecture.png
+
 ### 1. Data Processing
 - sMRI preprocessing (alignment, normalization, resampling)
 - Phenomic data harmonization and feature engineering
